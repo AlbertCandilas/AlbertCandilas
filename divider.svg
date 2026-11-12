@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" role="img" aria-label="divider">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#9D4EDD" stop-opacity="0"/><stop offset=".5" stop-color="#9D4EDD"/><stop offset="1" stop-color="#9D4EDD" stop-opacity="0"/></linearGradient>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#F5F3FF" stop-opacity="0"/><stop offset=".5" stop-color="#F5F3FF"/><stop offset="1" stop-color="#F5F3FF" stop-opacity="0"/></linearGradient>
+<filter id="gl" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.sw{animation:sw 4s ease-in-out infinite}@keyframes sw{from{transform:translateX(-200px)}to{transform:translateX(900px)}}
+.gem{transform-box:fill-box;transform-origin:center;animation:gp 3s ease-in-out infinite}@keyframes gp{50%{opacity:.55}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="40" y="13" width="820" height="2" fill="url(#g)" filter="url(#gl)"/>
+<rect class="sw" x="0" y="13" width="200" height="2" fill="url(#s)" filter="url(#gl)"/>
+<path class="gem" d="M450 6 L457 14 L450 22 L443 14 Z" fill="#C084FC" filter="url(#gl)"/>
+</svg>
