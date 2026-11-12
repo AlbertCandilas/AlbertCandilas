@@ -30,7 +30,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Scanning+hunter...;%3E+Identity+confirmed%3A+Alberto+M.+Candilas;%3E+Rank+is+rising." alt="> Scanning hunter..." /></p>
 
-Hi, I'm **Alberto M. Candilas** — a passionate frontend developer from the **Philippines**.
+Hi, I'm **Albert M. Candilas** — a passionate frontend developer from the **Philippines**.
 
 I'm a BSIT student at the **University of Mindanao** in Davao City, and I build apps from end to end: the database, the server logic, and the screen people actually use. So far that's meant
 **Laravel web apps, Flutter mobile apps and Python desktop apps**. Away from code, I'm sketching or cooking.
