@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://candilasportfolio.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=620&lines=ARISE.;Shadow+Monarch+in+training.;Frontend+Developer+from+the+Philippines;One+project+at+a+time.;I+build+web,+mobile+and+desktop+apps.;IT+Specialist+certified:+HTML+and+CSS" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=620&lines=ARISE.;Shadow+Monarch+in+training.;Frontend+Developer+from+the+Philippines;One+project+at+a+time.;I+build+web,+mobile+and+desktop+apps.;IT+Specialist+certified:+HTML+and+CSS" alt="Typing animation" />
   </a>
 </p>
 
@@ -28,6 +28,8 @@
 
 ### 👑 Hunter Profile
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Scanning+hunter...;%3E+Identity+confirmed%3A+Alberto+M.+Candilas;%3E+Rank+is+rising." alt="> Scanning hunter..." /></p>
+
 Hi, I'm **Alberto M. Candilas** — a passionate frontend developer from the **Philippines**.
 
 I'm a BSIT student at the **University of Mindanao** in Davao City, and I build apps from end to end: the database, the server logic, and the screen people actually use. So far that's meant
@@ -36,6 +38,8 @@ I'm a BSIT student at the **University of Mindanao** in Davao City, and I build 
 > 💜 *Every hunter starts at the weakest rank. The grind is what changes the rank.*
 
 ### 🟪 [ SYSTEM WINDOW ]
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Opening+status+window...;%3E+All+systems+online." alt="> Opening status window..." /></p>
 
 | ⚔️ Field | 📜 Status |
 | --- | --- |
@@ -50,6 +54,8 @@ I'm a BSIT student at the **University of Mindanao** in Davao City, and I build 
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 
 ### 🏅 Featured Certification
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Achievement+unlocked%3A+IT+Specialist;%3E+Skill+acquired%3A+HTML+and+CSS" alt="> Achievement unlocked: IT Specialist" /></p>
 
 <table>
   <tr>
@@ -69,6 +75,8 @@ I'm a BSIT student at the **University of Mindanao** in Davao City, and I build 
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 
 ### 🏰 Featured Quests
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Entering+the+dungeon...;%3E+5+dungeons+cleared.+Loot%3A+source+code." alt="> Entering the dungeon..." /></p>
 
 <table>
   <tr>
@@ -148,6 +156,8 @@ I'm a BSIT student at the **University of Mindanao** in Davao City, and I build 
 
 ### 🗡️ Shadow Arsenal — Languages and Tools
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Equipping+weapons...;%3E+Laravel+%C2%B7+Flutter+%C2%B7+Python+%C2%B7+C%23+%C2%B7+SQL" alt="> Equipping weapons..." /></p>
+
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="48" height="48" /></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" /></a>
@@ -179,6 +189,8 @@ I'm a BSIT student at the **University of Mindanao** in Davao City, and I build 
 
 ### 📜 Certifications
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Verifying+credentials...;%3E+4+certifications+confirmed." alt="> Verifying credentials..." /></p>
+
 | Certification | Issuer | Date | |
 | --- | --- | --- | --- |
 | 🏅 **IT Specialist: HTML and CSS** | Certiport (Pearson VUE) | May 2026 | [View](https://candilasportfolio.vercel.app/#its) |
@@ -190,18 +202,22 @@ I'm a BSIT student at the **University of Mindanao** in Davao City, and I build 
 
 ### 📈 Power Level
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Measuring+power+level...;%3E+It+keeps+growing." alt="> Measuring power level..." /></p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbertCandilas&show_icons=true&theme=dark&bg_color=0B0B12&title_color=9D4EDD&text_color=E9D5FF&icon_color=7B2FFF&border_color=4C1D95" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertCandilas&layout=compact&theme=dark&bg_color=0B0B12&title_color=9D4EDD&text_color=E9D5FF&border_color=4C1D95" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertCandilas&theme=dark&background=0B0B12&ring=9D4EDD&fire=7B2FFF&currStreakLabel=9D4EDD&sideLabels=E9D5FF&dates=E9D5FF&border=4C1D95" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=AlbertCandilas&theme=dark&background=0B0B12&ring=9D4EDD&fire=7B2FFF&currStreakLabel=9D4EDD&sideLabels=E9D5FF&dates=E9D5FF&border=4C1D95" alt="GitHub streak" />
 </p>
 
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 
 ### 📫 Let's Work Together
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+A+party+invite+has+appeared.;%3E+Accept+the+quest%3F" alt="> A party invite has appeared." /></p>
 
 Have a project in mind, a class collab, or an internship opening? I'd love to hear about it.
 
@@ -215,5 +231,5 @@ Have a project in mind, a class collab, or an internship opening? I'd love to he
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4C1D95,100:0B0B12&height=120&section=footer&text=ARISE.&fontSize=28&fontColor=F5F3FF&fontAlignY=70" alt="ARISE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4C1D95,100:0B0B12&height=120&section=footer&text=ARISE.&fontSize=28&fontColor=F5F3FF&fontAlignY=70&animation=twinkling" alt="ARISE" width="100%" />
 </p>
