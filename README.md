@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:4C1D95,100:9D4EDD&height=240&section=header&text=ALBERTO%20M.%20CANDILAS&fontSize=42&fontColor=F5F3FF&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=58&descAlign=50" alt="Alberto M. Candilas - Solo Leveling style moving banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:4C1D95,100:9D4EDD&height=240&section=header&text=ALBERT%20M.%20CANDILAS&fontSize=42&fontColor=F5F3FF&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=58&descAlign=50" alt="Albert M. Candilas - Solo Leveling style moving banner" width="100%" />
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="aura.svg" width="100%" alt="System window: player status of Alberto M. Candilas" />
+  <img src="aura.svg" width="100%" alt="System window: player status of Albert M. Candilas" />
 </p>
 
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 
 ### 👑 Hunter Profile
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Scanning+hunter...;%3E+Identity+confirmed%3A+Alberto+M.+Candilas;%3E+Rank+is+rising." alt="> Scanning hunter..." /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1600&color=C084FC&center=true&vCenter=true&width=600&height=32&lines=%3E+Scanning+hunter...;%3E+Identity+confirmed%3A+Albert+M.+Candilas;%3E+Rank+is+rising." alt="> Scanning hunter..." /></p>
 
 Hi, I'm **Albert M. Candilas** — a passionate frontend developer from the **Philippines**.
 
