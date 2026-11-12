@@ -213,6 +213,14 @@ I'm a BSIT student at the **University of Mindanao** in Davao City, and I build 
   <img src="https://streak-stats.demolab.com/?user=AlbertCandilas&theme=dark&background=0B0B12&ring=9D4EDD&fire=7B2FFF&currStreakLabel=9D4EDD&sideLabels=E9D5FF&dates=E9D5FF&border=4C1D95" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertCandilas&bg_color=0B0B12&color=E9D5FF&line=9D4EDD&point=F5F3FF&area=true&area_color=4C1D95&title_color=C084FC&hide_border=true&custom_title=Shadow%20Energy%20Over%20Time" width="100%" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlbertCandilas/AlbertCandilas/output/github-snake-dark.svg" width="100%" alt="A shadow snake devouring my contribution graph" />
+</p>
+
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 
 ### 📫 Let's Work Together
